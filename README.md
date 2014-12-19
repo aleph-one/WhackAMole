@@ -1,8 +1,15 @@
 WhackAMole
 ==========
 
-The program tries to locate a camera and then shows you a camera feed overlaid with either a mole or a squirrel.
+The program tries to locate a camera 
+and then shows you a camera feed overlaid with either a mole 
+<img src="https://raw.githubusercontent.com/aleph-one/WhackAMole/master/mole-medium.png"/> 
+or a squirrel 
+<img src="https://raw.githubusercontent.com/aleph-one/WhackAMole/master/squirrel-medium.png"/>.
+
 Try to hit the mole (and not the squirrel) with something RED.
+
+
 
 Keys:
 
