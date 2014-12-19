@@ -11,3 +11,8 @@ S/s: increase/decrease time between jumps
 R/d: increase/decrease amount of red for detection
 
 d: toogle debug to visualize the detection algorithm
+
+
+Mouse click:
+
+Print RGB values to console
